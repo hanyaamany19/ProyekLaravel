@@ -58,7 +58,7 @@
                     <thead>
                         <tr>
                             <td>#</td>
-                            <td>Nama Menu</td>
+                            <td>Nama Menu Buku</td>
                             <td>Harga</td>
                             <td>Qty</td>
                             <td>Subtotal</td>
